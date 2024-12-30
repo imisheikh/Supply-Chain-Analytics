@@ -24,3 +24,10 @@ Key Takeaways:
 Learned to compare and evaluate Make vs. Buy decisions using real-world datasets.
 Gained experience in building dynamic dashboards for strategic decision-making.
 Developed actionable insights to guide supply chain optimization strategies.
+
+<img width="749" alt="Supplier Selection" src="https://github.com/user-attachments/assets/833c7a06-ff70-4764-a486-550eda7bb356" />
+<img width="743" alt="Scenerio Analysis" src="https://github.com/user-attachments/assets/9771ae19-8e75-40d0-8cda-54146d31973a" />
+<img width="749" alt="make Vs Buy" src="https://github.com/user-attachments/assets/f9b8538b-d16e-4dca-b5a7-17c06e4bc679" />
+
+
+
